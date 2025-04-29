@@ -1,8 +1,8 @@
 {
   "name": "animated-mouse",
-  "version": "1.0.0",
-  "main": "animated-mouse.js",
-  "style": "animated-mouse.css",
+  "version": "1.0.1",
+  "main": "animated-mouse.min.js",
+  "style": "animated-mouse.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
