@@ -1,0 +1,17 @@
+{
+  "name": "animated-mouse",
+  "version": "1.0.0",
+  "main": "animated-mouse.js",
+  "style": "animated-mouse.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mouse", "logo", "animation", "cursor", "hover", "js", "css"],
+  "author": "Ruba Awata",
+  "license": "MIT",
+  "description": "A JS library to animate a logo following the mouse with hover shape changes",
+  "dependencies": {
+    "gsap": "^3.0.0",
+    "jquery": "^3.0.0"
+  }
+}
