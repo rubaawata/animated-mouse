@@ -40,7 +40,7 @@ In your stylesheet:
 ```css
 :root {
   --animated-mouse-main-color: #eb2227;                    /* Main accent color */
-  --animated-mouse-logo: url('your-logo.svg');             /* Your logo (SVG recommended) */
+  --animated-mouse-logo: url('https://example.com/path/to/your-logo.svg');             /* Full path to your logo (SVG recommended) */
 }
 ```
 
