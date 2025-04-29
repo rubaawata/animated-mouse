@@ -1,4 +1,4 @@
-export function customCursor(options) {
+function customCursor(options) {
     let settings = $.extend({
         targetClass: 'custom-cursor', // create element with this class
         wrapper: $('body'), // jQuery

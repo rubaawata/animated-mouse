@@ -1,6 +1,6 @@
 {
   "name": "animated-mouse",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "animated-mouse.min.js",
   "style": "animated-mouse.min.css",
   "scripts": {
