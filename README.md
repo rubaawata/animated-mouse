@@ -101,6 +101,8 @@ Use `data-mouse-class` on any element with `class="animate-mouse"`:
 
 ---
 
+![Demo Animation](assets/demo.gif)
+
 ## 📦 npm Install (Optional)
 
 ```bash
